@@ -6,7 +6,7 @@ pragma solidity ^0.8.0;
 import "hardhat/console.sol";
 
 // This is the main building block for smart contracts.
-contract TokenContract {
+contract Token {
     // Some string type variables to identify the token.
     string public name = "My Hardhat Token";
     string public symbol = "MHT";
